@@ -1,0 +1,1 @@
+Stomp client for Embarcadero Delphi and FreePascal. Actually tested with ActiveMQ 5.2, 5.3 and 5.3.2
